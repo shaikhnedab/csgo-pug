@@ -1,5 +1,4 @@
 # csgo-pug
-# csgo-retakes
 Follow the below steps carefully.
 
 `1. Change the Server name and Rcon password (in server.cfg) before upoading to Gameserver.`
