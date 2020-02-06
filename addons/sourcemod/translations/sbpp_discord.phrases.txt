@@ -1,0 +1,53 @@
+"Phrases"
+{
+	"Author Console"
+	{
+		"en"		"Console"
+		"ru"		"Консоль"
+	}
+	"Violator"
+	{
+		"en"		"Violator:"
+		"ru"		"Нарушитель:"
+	}
+	"Map"
+	{
+		"en"		"Map:"
+		"ru"		"Карта:"
+	}
+	"Time"
+	{
+		"en"		"Time:"
+		"ru"		"Время:"
+	}
+	"Reason"
+	{
+		"en"		"Reason:"
+		"ru"		"Причина:"
+	}
+	"Duration"
+	{
+		"en"		"Duration:"
+		"ru"		"Длительность:"
+	}
+	"CommType"
+	{
+		"en"		"Type:"
+		"ru"		"Тип наказания:"
+	}
+	"Mute"
+	{
+		"en"		"Mute."
+		"ru"		"Отключение микрофона."
+	}
+	"Gag"
+	{
+		"en"		"Gag."
+		"ru"		"Отключение чата."
+	}
+	"Silence"
+	{
+		"en"		"Silence."
+		"ru"		"Отключение микрофона и чата."
+	}
+}

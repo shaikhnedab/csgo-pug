@@ -1,0 +1,23 @@
+"Phrases"
+{
+				// 1,2,3,6,7,8 - TAG, 4 - name, 5 - weapon
+	"HS2All"
+	{
+		"tr"	"{1}{2}{3} {orange}{4} {darkred}Dürbünsüz + Headshot Vurdu! {default}[{blue}{5}{default}] {6}{7}{8}"
+	}
+				// Number of headshots
+	"HS"
+	{
+		"tr"	"{orange}HS + Noscope ile vurduğun toplam kişi sayısı: {darkred}{1}"
+	}
+				// 1,2,3,6,7,8 - TAG, 4 - name, 5 - weapon
+	"Kill2All"
+	{
+		"tr"	"{1}{2}{3} {orange}{4} {darkred}Dürbünsüz Vurdu! {default}[{blue}{5}{default}] {6}{7}{8}"
+	}
+				// Number of kills
+	"Kill"
+	{
+		"tr"	"{orange}Noscope ile vurduğun toplam kişi sayısı: {darkred}{1}"
+	}
+}

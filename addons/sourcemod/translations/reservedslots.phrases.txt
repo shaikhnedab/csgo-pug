@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"en"			"Sorry you got disconnected, Our VIP costs only Rs. 50/month. http://kebabnation.xyz"
+	}
+}
